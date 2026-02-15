@@ -1,0 +1,77 @@
+{
+  "museums": {
+    "rows": 2777,
+    "cols": 14,
+    "missingness_pct": {
+      "state": 9.254591285559957,
+      "website_url": 8.210298883687432,
+      "hero_image_url": 2.9528267915016206,
+      "city": 0.5761613251710479,
+      "museum_id": 0.0,
+      "name": 0.0,
+      "country": 0.0,
+      "lat": 0.0,
+      "lng": 0.0,
+      "address": 0.0,
+      "opening_hours": 0.0,
+      "has_full_content": 0.0,
+      "tags": 0.0,
+      "hightlight": 0.0
+    }
+  },
+  "artworks": {
+    "rows": 590,
+    "cols": 13,
+    "missingness_pct": {
+      "description": 28.8135593220339,
+      "image_url": 5.084745762711865,
+      "medium": 0.1694915254237288,
+      "dimensions": 0.1694915254237288,
+      "artwork_id": 0.0,
+      "title": 0.0,
+      "artist_id": 0.0,
+      "art_type": 0.0,
+      "year": 0.0,
+      "museum_id": 0.0,
+      "museum_page_url": 0.0,
+      "on_view": 0.0,
+      "highlight": 0.0
+    }
+  },
+  "artists": {
+    "rows": 21,
+    "cols": 10,
+    "missingness_pct": {
+      "artist_id": 0.0,
+      "artist_name": 0.0,
+      "bio": 0.0,
+      "portrait_url": 0.0,
+      "nationality": 0.0,
+      "birth_year": 0.0,
+      "death_year": 0.0,
+      "movement": 0.0,
+      "notable_works": 0.0,
+      "wiki_url": 0.0
+    }
+  },
+  "exhibitions": {
+    "rows": 26,
+    "cols": 9,
+    "missingness_pct": {
+      "related_artworks": 96.15384615384616,
+      "start_date": 23.076923076923077,
+      "end_date": 3.8461538461538463,
+      "exhibition_id": 0.0,
+      "museum_id": 0.0,
+      "exhibition_name": 0.0,
+      "cover_image_url": 0.0,
+      "official_url": 0.0,
+      "short_description": 0.0
+    }
+  },
+  "artist_coverage": {
+    "artworks_total": 590,
+    "artist_match_count": 587,
+    "artist_match_rate": 0.9949152542372881
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "run_id": "run_20260215_153330",
+  "targets": {
+    "target_artworks_per_museum": 100,
+    "target_exhibitions_per_museum": 30
+  },
+  "top_museums_to_enrich": [
+    {
+      "type": "museum_enrichment",
+      "museum_id": "art-gallery-of-new-south-wales-sydney-australia",
+      "museum_name": "",
+      "country": "Australia",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "australian-museum-sydney-australia",
+      "museum_name": "",
+      "country": "Australia",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "vancouver-art-gallery-vancouver-canada",
+      "museum_name": "",
+      "country": "Canada",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "the-palace-museum-beijing-china",
+      "museum_name": "",
+      "country": "China",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "louisiana-museum-of-modern-art-humlebk-denmark",
+      "museum_name": "",
+      "country": "Denmark",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "the-grand-egyptian-museum-cairo-egypt",
+      "museum_name": "",
+      "country": "Egypt",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "louvre-museum-paris-france",
+      "museum_name": "",
+      "country": "France",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "musee-dorsay-paris-france",
+      "museum_name": "",
+      "country": "France",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "musee-de-lorangerie-paris-france",
+      "museum_name": "",
+      "country": "France",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "the-centre-pompidou-paris-france",
+      "museum_name": "",
+      "country": "France",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "uffizi-galleries-florence-italy",
+      "museum_name": "",
+      "country": "Italy",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "the-national-art-center-tokyo-japan",
+      "museum_name": "",
+      "country": "Japan",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "rijksmuseum-amsterdam-netherlands",
+      "museum_name": "",
+      "country": "Netherlands",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "mauritshuis-the-hague-netherlands",
+      "museum_name": "",
+      "country": "Netherlands",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "auckland-art-gallery-auckland-new-zealand",
+      "museum_name": "",
+      "country": "New Zealand",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "winter-palace-st-petersburg-russia",
+      "museum_name": "",
+      "country": "Russia",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "national-gallery-singapore-singapore",
+      "museum_name": "",
+      "country": "Singapore",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "picasso-museum-barcelona-spain",
+      "museum_name": "",
+      "country": "Spain",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "museo-nacional-del-prado-madrid-spain",
+      "museum_name": "",
+      "country": "Spain",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "the-british-museum-london-uk",
+      "museum_name": "",
+      "country": "United Kingdom",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "victoria-and-albert-museum-london-uk",
+      "museum_name": "",
+      "country": "United Kingdom",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "phoenix-art-museum-phoenix-us",
+      "museum_name": "",
+      "country": "United States",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "baps-shri-swaminarayan-mandir-chino-hills-us",
+      "museum_name": "",
+      "country": "United States",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "the-getty-los-angeles-us",
+      "museum_name": "",
+      "country": "United States",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    },
+    {
+      "type": "museum_enrichment",
+      "museum_id": "the-getty-villa-pacific-palisades-us",
+      "museum_name": "",
+      "country": "United States",
+      "artworks_count": 0,
+      "exhibitions_count": 0,
+      "score": 160.0,
+      "targets": {
+        "target_artworks_per_museum": 100,
+        "target_exhibitions_per_museum": 30
+      }
+    }
+  ],
+  "high_missing_columns": [
+    {
+      "type": "column_fill_strategy",
+      "table": "exhibitions",
+      "column": "related_artworks",
+      "missingness_pct": 96.15384615384616
+    },
+    {
+      "type": "column_fill_strategy",
+      "table": "artworks",
+      "column": "description",
+      "missingness_pct": 28.8135593220339
+    },
+    {
+      "type": "column_fill_strategy",
+      "table": "exhibitions",
+      "column": "start_date",
+      "missingness_pct": 23.076923076923077
+    }
+  ]
+}
