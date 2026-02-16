@@ -1,4 +1,3 @@
-cat > scripts/enrich_demo.py <<'PY'
 #!/usr/bin/env python3
 # Enrich demo: read runs/<run_dir>/backlog.json -> pick museums -> call AIC/Met APIs -> write enriched CSVs
 from __future__ import annotations
@@ -32,7 +31,7 @@ def first_year(text: str) -> str:
 
 
 def read_csv_rows(path: Path) -> Tuple[List[str], List[Dict[str, str]]]:
-    with path.open("r", encoding="utf-8", newline="") as f:
+    with path.open("r", encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
         fieldnames = reader.fieldnames or []
         rows = [dict(r) for r in reader]
@@ -315,5 +314,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-PY
-chmod +x scripts/enrich_demo.py
